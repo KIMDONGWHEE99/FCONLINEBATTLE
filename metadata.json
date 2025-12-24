@@ -1,0 +1,5 @@
+{
+  "name": "절친쓰 피파 대회",
+  "description": "A comprehensive tournament manager for 4 players featuring a Round-Robin League phase followed by a Stepladder (Gauntlet) Tournament phase. Includes real-time standing updates, automated bracket progression, and a detailed historical data archive.",
+  "requestFramePermissions": []
+}
